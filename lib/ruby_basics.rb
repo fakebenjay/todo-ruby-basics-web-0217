@@ -10,8 +10,8 @@ def argue(rabble)
   return rabble
 end
 
-def greeting(greeting, name)
-  return greeting + name
+def greeting(intro, name)
+  return intro + name
 end
 
 def return_a_value(value = "Nice")
